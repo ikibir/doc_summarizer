@@ -1,0 +1,32 @@
+[
+    {
+        "header": "Business Growth and Performance (financials)",
+        "keywords": [
+            "Revenue and profit (EBIT) growth or decline and trends over previous fiscal or quarterly periods",
+            "Gross and operating profit margin with the trends over previous fiscal and quarterly periods",
+            "Market share position and expansion"
+        ],
+        "input": "Summarize the Business Growth and Performance (financials) of the company based on given documents with given keywords.\n    keywords = \"Revenue and profit (EBIT) growth or decline and trends over previous fiscal or quarterly periods\", \"Gross and operating profit margin with the trends over previous fiscal and quarterly periods\", \"Market share position and expansion\"\n    Do not create too long text. If you don't have enough information tell me \"NO INFORMATION\".\n    ",
+        "output": "Based on the given documents, there is NO INFORMATION available regarding the revenue and profit growth or decline, gross and operating profit margin trends, as well as the market share position and expansion of the company."
+    },
+    {
+        "header": "Business Growth and Performance (financials)",
+        "keywords": [
+            "Capital allocation position",
+            "Balance sheet strength (position of assets and liabilities) and equally the trends over previous fiscal or quarterly periods",
+            "Cost savings"
+        ],
+        "input": "Summarize the Business Growth and Performance (financials) of the company based on given documents with given keywords.\n    keywords = \"Capital allocation position\", \"Balance sheet strength (position of assets and liabilities) and equally the trends over previous fiscal or quarterly periods\", \"Cost savings\"\n    Do not create too long text. If you don't have enough information tell me \"NO INFORMATION\".\n    ",
+        "output": "The company has a strong capital allocation position and has been focusing on cost savings. The balance sheet shows consistent strength with positive trends over previous periods."
+    },
+    {
+        "header": "Business Growth and Performance (financials)",
+        "keywords": [
+            "Free cash flow and the trends over previous fiscal or quarterly periods",
+            "Dividend performance",
+            "Value for shareholders"
+        ],
+        "input": "Summarize the Business Growth and Performance (financials) of the company based on given documents with given keywords.\n    keywords = \"Free cash flow and the trends over previous fiscal or quarterly periods\", \"Dividend performance\", \"Value for shareholders\"\n    Do not create too long text. If you don't have enough information tell me \"NO INFORMATION\".\n    ",
+        "output": "Based on the given documents, there is no information available on the company's free cash flow trends, dividend performance, or value for shareholders."
+    }
+]

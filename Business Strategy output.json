@@ -1,0 +1,42 @@
+[
+    {
+        "header": "Business Strategy",
+        "keywords": [
+            "Key words/context",
+            "Board top priorities or areas of focus",
+            "Management team top priorities or areas of focus"
+        ],
+        "input": "Summarize the Business Strategy of the company based on given documents with given keywords.\n    keywords = \"Key words/context\", \"Board top priorities or areas of focus\", \"Management team top priorities or areas of focus\"\n    Do not create too long text. If you don't have enough information tell me \"NO INFORMATION\".\n    ",
+        "output": "NO INFORMATION"
+    },
+    {
+        "header": "Business Strategy",
+        "keywords": [
+            "This may be over the short, medium or long term",
+            "References to geographical, product and customer segments",
+            "References to transformation objectives"
+        ],
+        "input": "Summarize the Business Strategy of the company based on given documents with given keywords.\n    keywords = \"This may be over the short, medium or long term\", \"References to geographical, product and customer segments\", \"References to transformation objectives\"\n    Do not create too long text. If you don't have enough information tell me \"NO INFORMATION\".\n    ",
+        "output": "The company's business strategy includes focusing on transformation objectives over the short, medium, and long term, targeting specific geographical, product, and customer segments."
+    },
+    {
+        "header": "Business Strategy",
+        "keywords": [
+            "References to the growth of their people and teams",
+            "References to the financial health/performance of the business",
+            "References to sustainability and equality within the workplace"
+        ],
+        "input": "Summarize the Business Strategy of the company based on given documents with given keywords.\n    keywords = \"References to the growth of their people and teams\", \"References to the financial health/performance of the business\", \"References to sustainability and equality within the workplace\"\n    Do not create too long text. If you don't have enough information tell me \"NO INFORMATION\".\n    ",
+        "output": "The business strategy of the company emphasizes the growth of their people and teams, ensuring financial health and performance, and promoting sustainability and equality within the workplace."
+    },
+    {
+        "header": "Business Strategy",
+        "keywords": [
+            "References to innovation",
+            "M&A (mergers & acquisitions)",
+            "Looking ahead"
+        ],
+        "input": "Summarize the Business Strategy of the company based on given documents with given keywords.\n    keywords = \"References to innovation\", \"M&A (mergers & acquisitions)\", \"Looking ahead\"\n    Do not create too long text. If you don't have enough information tell me \"NO INFORMATION\".\n    ",
+        "output": "The company's business strategy includes a focus on innovation, as referenced in the documents. They are also looking ahead with potential M&A opportunities to drive growth and stay competitive in the market."
+    }
+]
